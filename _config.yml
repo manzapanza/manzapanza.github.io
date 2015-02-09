@@ -5,7 +5,7 @@ locale: en_US
 description: Full Stack Developer
 logo: MaxApp.png
 search: true
-url: http://localhost:4000
+url: ''
 
 # Jekyll configuration
 
@@ -32,7 +32,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 # Site owner
 owner:
   name: Massimo Rangoni
-  avatar: bio-photo.jpg
+  avatar: massimo-photo.jpg
   email: maxappbr@gmail.com
   disqus-shortname:
   twitter: #manzapanza
